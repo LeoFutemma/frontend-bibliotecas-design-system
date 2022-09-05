@@ -1,0 +1,9 @@
+.container-add-product {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+}
+
+.main__content {
+  padding: 0 85px;
+}

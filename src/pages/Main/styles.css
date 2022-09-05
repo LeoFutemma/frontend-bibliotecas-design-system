@@ -1,0 +1,21 @@
+.container-main {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+}
+
+.main__content {
+  padding: 0 85px;
+}
+
+.your-products {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 70px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #BFBFBF;
+}
